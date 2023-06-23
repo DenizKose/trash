@@ -33,7 +33,7 @@
         "id": "babele",
         "type": "module"
       }
-    ],
+    ]
   },
   "url": "https://gitlab.com/gnuraco/pf2r",
   "manifest": "https://gitlab.com/gnuraco/pf2r/-/raw/master/module.json",
